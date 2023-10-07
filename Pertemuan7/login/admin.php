@@ -10,6 +10,7 @@
     <h1>
         Selamat Datang Admin!
     </h1>
+    <p>nanti kita akan melanjutkan belajar php dasar ini sampai selesai, jadi harap diikuti semua materinya dengan semangat!!!</p>
     <a href="login.php">Logout!</a>
 </body>
 </html>
